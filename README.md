@@ -6,10 +6,9 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate developer focused on building intuitive and efficient applications.  
-I enjoy tackling challenges and continuously learning new technologies.  
-My goal is to write clean, high-performance code by strengthening my understanding of **Data Structures and Algorithms**.
-
+Passionate Software Developer focused on building intuitive, efficient, and scalable applications.
+Enjoys solving complex problems and continuously learning new technologies to improve development practices.
+Driven by the goal of writing clean, high-performance code while strengthening expertise in Data Structures, Algorithms, and System Design.
 ---
 
 ### 🚀 My Current Focus
